@@ -9,4 +9,7 @@ A graduate student in the doctoral program of the Department of Mathematical Inf
 - Graduate School of Engineering, University of Tokyo : April 2015 -- March 2017
 - Graduate School of Information Science and Technology, University of Tokyo : April 2017 -- Present.
 
+## Publications
 
+- Shotaro Tsuji, Kazuyuki Aihara, "An evaluation of the shape of the Lorenz attractor embedded in the delay coordinate space with persistent homology," Conference of IEICE Technical committee of Nonlinear Problems, vol. 116, no. 151, NLP2016-37, pp. 17-20, July, 2016 (in Japanese).
+- Shotaro Tsuji, Kazuyuki Aihara, "Criterion for determining the optimal delay of attractor reconstruction using persistent homology," Nonlinear Theory and Its Applications, IEICE, 2019, Volume 10, Issue 1, pp. 74-89, January , 2019.
